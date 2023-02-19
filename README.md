@@ -2,6 +2,8 @@ Androidエンジニア目指してGithubとKotlin学習中
 
 目標：6月までに自作家計簿アプリ作成！
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=EXAM079&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **EXAM079/EXAM079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
