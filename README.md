@@ -1,4 +1,5 @@
-Androidエンジニア目指してKotlin学習中
+Androidエンジニア目指してGithubとKotlin学習中
+目標：6月までに自作家計簿アプリ作成！
 
 <!--
 **EXAM079/EXAM079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
